@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sjos12
+- 👋 Hi, I’m Denzel Stellingwerf and @Sjos12
   - 👀 I’m interested in web development as well as web design, rugby and videogames.
 - 🌱 I’m currently learning Laravel, Angular and other technologies to increase my experience.
 - 💞️ I’m looking to collaborate on any interesting open source projects.
